@@ -1,5 +1,5 @@
 {
-    "name": "Calculator",
+    "name": "Calculator101",
     "short_name": "Calculator",
     "start_url": "https://shab1r.github.io/calculator101/",
     "background_color": "#6dcdb1",
@@ -7,7 +7,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "images/STUDIELINK.png",
+            "src": "/images/STUDIELINK.png",
             "sizes": "192x192",
             "type": "image/png"
         }
